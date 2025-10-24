@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Docs Builder - Flora Edition",
+  "description": "An AI-powered agentic system to generate documents. Upload a dataset, define a template, configure a chain of AI agents, and execute a pipeline to process and transform your data into final documents.",
+  "requestFramePermissions": []
+}
